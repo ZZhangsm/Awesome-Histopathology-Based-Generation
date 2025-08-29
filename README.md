@@ -54,7 +54,6 @@ Awesome-Histopathology-Generative-Translation is a collection of histopathology 
 | 2021 | **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** | bioRxiv | HisToGene                  | [link](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1)    | [link](https://github.com/maxpmx/HisToGene)                   |
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nature biomedical engineering | ST-Net                  | [link](https://www.nature.com/articles/s41551-020-0578-x)    | [link](https://github.com/bryanhe/ST-Net)                   |
 
-
 ### H&E To Protein Maker
 
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
