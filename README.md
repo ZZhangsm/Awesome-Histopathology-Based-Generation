@@ -1,11 +1,11 @@
-[stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-Histopathology-Based-Generation?color=yellow
-[stars-url]: https://github.com/zzhangsm/Awesome-Histopathology-Based-Generation/stargazers
-[fork-img]: https://img.shields.io/github/forks/zzhangsm/Awesome-Histopathology-Based-Generation?color=lightblue&label=fork
-[fork-url]: https://github.com/zzhangsm/Awesome-Histopathology-Based-Generation/network/members
-[AHBG-url]: https://github.com/zzhangsm/Awesome-Histopathology-Based-Generation
+[stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-Histopathology-Generative-Translation?color=yellow
+[stars-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/stargazers
+[fork-img]: https://img.shields.io/github/forks/zzhangsm/Awesome-Histopathology-Generative-Translation?color=lightblue&label=fork
+[fork-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/network/members
+[AHBG-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation
 
-# Awesome-Histopathology-Based-Generation
-Awesome Histopathology-based Generation is a collection of histopathology image generation works, including papers, codes and datasets🔥. Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+# Awesome-Histopathology-Generative-Translation
+Awesome-Histopathology-Generative-Translation is a collection of histopathology image-based generation works, including papers, codes and datasets🔥. Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, please contact us through:
 - Email: zzhangsm615@gmail.com
-- GitHub Issues: [Create Issue](https://github.com/zzhangsm/Awesome-Histopathology-Based-Generation/issues)
+- GitHub Issues: [Create Issue](https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/issues)
 
 ## 🙏 Acknowledgments
 
