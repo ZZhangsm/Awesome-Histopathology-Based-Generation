@@ -5,7 +5,9 @@
 [AHBG-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation
 
 # Awesome-Histopathology-Generative-Translation
-Awesome-Histopathology-Generative-Translation is a collection of histopathology image-based generation works, including papers, codes and datasets🔥. Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+Awesome-Histopathology-Generative-Translation is a collection of histopathology image-based generation works, including papers, codes and datasets🔥.  We center on the core task of "generative translation for histopathology data" — a key research direction in computational pathology that aims to bridge different data modalities or staining types using generative models. Specifically, it focuses on translating information from hematoxylin and eosin (H&E) stained histopathology images (the most common and accessible histology imaging modality) to other critical biological or imaging data.
+
+Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
@@ -17,9 +19,10 @@ Awesome-Histopathology-Generative-Translation is a collection of histopathology 
 - [📚 Papers](#-papers)
   - [Survey](#survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
-  - [H&E To Protein Maker](#he-to-protein-maker)
+  - [H&E To Protein Biomarker](#he-to-protein-biomarker)
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ## 📊 Datasets
 
@@ -35,7 +38,7 @@ Awesome-Histopathology-Generative-Translation is a collection of histopathology 
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Computational Pathology | [link](https://arxiv.org/abs/2505.10993)    |
 | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    |
 
-### H&E To Spatial Transcriptomics (biomarkers)
+### H&E To Spatial Transcriptomics
 
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -54,7 +57,7 @@ Awesome-Histopathology-Generative-Translation is a collection of histopathology 
 | 2021 | **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** | bioRxiv | HisToGene                  | [link](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1)    | [link](https://github.com/maxpmx/HisToGene)                   |
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nature biomedical engineering | ST-Net                  | [link](https://www.nature.com/articles/s41551-020-0578-x)    | [link](https://github.com/bryanhe/ST-Net)                   |
 
-### H&E To Protein Maker
+### H&E To Protein Biomarker
 
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -83,10 +86,6 @@ We welcome all forms of contributions! If you want to add new papers, codes, or 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
