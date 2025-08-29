@@ -5,7 +5,7 @@
 [AHBG-url]: https://github.com/zzhangsm/Awesome-Histopathology-Based-Generation
 
 # Awesome-Histopathology-Based-Generation
-AHBG: Awesome Histopathology Based Generation is a collection of histopathology image generation works, including papers, codes and datasets :fire:. Any problems, please contact the maintainers. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+Awesome Histopathology-based Generation is a collection of histopathology image generation works, including papers, codes and datasets🔥. Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
@@ -16,7 +16,7 @@ AHBG: Awesome Histopathology Based Generation is a collection of histopathology 
 - [📊 Datasets](#-datasets)
 - [📚 Papers](#-papers)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
-  - [H&E To Protein](#he-to-protein)
+  - [H&E To Protein Maker](#he-to-protein-maker)
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 
