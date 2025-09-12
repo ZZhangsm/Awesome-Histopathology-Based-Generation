@@ -26,10 +26,15 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 
 ## 📊 Datasets
 
+<details>
+<summary>📊 Datasets</summary>
+
 ### Public Datasets
 | Year | Title                                                        |  Venue  |        Built For        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2023 | **An AI-ready multiplex staining dataset for reproducible and accurate characterization of tumor immune microenvironment** | MICCAI | H&E To Protein | [link](https://arxiv.org/abs/2305.16465)    | [link](https://github.com/nadeemlab/DeepLIIF)                   |
+
+</details>
 
 ## 📚 Papers
 ### Survey
@@ -40,8 +45,10 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 
 ### H&E To Spatial Transcriptomics
 
+
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 | **FmH2ST: foundation model-based spatial transcriptomics generation from histological images** | NAR | FmH2ST | [link](https://doi.org/10.1093/nar/gkaf865)    | [link](https://www.sdu-idea.cn/codes.php?name=FmH2ST) 
 | 2025 | **A visual–omics foundation model to bridge histopathology with spatial transcriptomics** | Nat. Methods | OmiCLIP | [link](https://www.nature.com/articles/s41592-025-02707-1)    | [link](https://github.com/GuangyuWangLab2021/Loki)  
 | 2025 | **Predicting Spatial Transcriptomics from H&E Image by Pretrained Contrastive Alignment Learning** | bioRxiv | CarHE | [link](https://www.biorxiv.org/content/10.1101/2025.06.15.659438v1.abstract)    | [link](https://github.com/Jwzouchenlab/CarHE) |
 | 2025 | **Gene-DML: Dual-Pathway Multi-Level Discrimination for Gene Expression Prediction from Histopathology Images** | arXiv | Gene-DML | [link](https://arxiv.org/abs/2507.14670)    | [link](https://github.com/hrlblab/Img2ST-Net) |
