@@ -19,8 +19,8 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 - [📚 Papers](#-papers)
   - [Survey](#survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
-  - [H&E To Protein Biomarker](#he-to-protein-biomarker)
-  - [H&E To Cell Profile](#he-to-cell-profile)
+  <!-- - [H&E To Protein Biomarker](#he-to-protein-biomarker)
+  - [H&E To Cell Profile](#he-to-cell-profile) -->
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -42,12 +42,12 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: |
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Computational Pathology | [link](https://arxiv.org/abs/2505.10993)    |
-| 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    |
+<!-- | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    | -->
 
-### H&E To Cell profile
+<!-- ### H&E To Cell profile
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025 | **Systematic inference of super-resolution cell spatial profiles from histology images** | Nat. Commun. | HistoCell | [link](https://www.nature.com/articles/s41467-025-57072-6)    | [link](https://github.com/recolyce/HistoCell) 
+| 2025 | **Systematic inference of super-resolution cell spatial profiles from histology images** | Nat. Commun. | HistoCell | [link](https://www.nature.com/articles/s41467-025-57072-6)    | [link](https://github.com/recolyce/HistoCell)  -->
 
 ### H&E To Spatial Transcriptomics
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
@@ -70,7 +70,7 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 | 2022 | **Spatial transcriptomics prediction from histology jointly through transformer and graph neural networks** | BIB | Hist2ST                  | [link](https://doi.org/10.1093/bib/bbac297)    | [link](https://github.com/biomed-AI/Hist2ST)                   |
 | 2021 | **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** | bioRxiv | HisToGene                  | [link](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1)    | [link](https://github.com/maxpmx/HisToGene)                   |
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nature biomedical engineering | ST-Net                  | [link](https://www.nature.com/articles/s41551-020-0578-x)    | [link](https://github.com/bryanhe/ST-Net)                   |
-
+<!-- 
 ### H&E To Protein Biomarker
 
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
@@ -87,7 +87,7 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 | 2022 | **BCI: breast cancer immunohistochemical image generation through pyramid pix2pix** | CVPR Workshop| Pix2pix | [link](https://www.nature.com/articles/s42256-022-00471-x)    | [link](https://bupt-ai-cz.github.io/BCI)   
 | 2022 | **MVFStain: Multiple virtual functional stain histopathology images generation based on specific domain mapping** | Med. Image Anal. | Multi-V-Stain | [link](https://doi.org/10.1016/j.media.2022.102520)    |    
 | 2021 | **Deep learning-based transformation of H&E stained tissues into special stains** |  Nat. Commun. |  | [link](https://www.nature.com/articles/s41467-021-25221-2)    | [link](https://github.com/kevindehaan/stain-transformation) |
-| 2020 | **SHIFT: speedy histological-to-immunofluorescent translation of a tumor signature enabled by deep learning** |Sci. Rep. | SHIFT | [link](https://www.nature.com/articles/s41598-020-74500-3)    | [link](https://gitlab.com/eburling/shift)                   |
+| 2020 | **SHIFT: speedy histological-to-immunofluorescent translation of a tumor signature enabled by deep learning** |Sci. Rep. | SHIFT | [link](https://www.nature.com/articles/s41598-020-74500-3)    | [link](https://gitlab.com/eburling/shift)                   | -->
 
 
 ## 🤝 Contributing
