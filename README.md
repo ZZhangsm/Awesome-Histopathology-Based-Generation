@@ -20,6 +20,7 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
   - [Survey](#survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
   - [H&E To Protein Biomarker](#he-to-protein-biomarker)
+  - [H&E To Cell Profile](#he-to-cell-profile)
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -43,9 +44,12 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Computational Pathology | [link](https://arxiv.org/abs/2505.10993)    |
 | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    |
 
+### H&E To Cell profile
+| Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 | **Systematic inference of super-resolution cell spatial profiles from histology images** | Nat. Commun. | HistoCell | [link](https://www.nature.com/articles/s41467-025-57072-6)    | [link](https://github.com/recolyce/HistoCell) 
+
 ### H&E To Spatial Transcriptomics
-
-
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 | **Scaling up spatial transcriptomics for large-sized tissues: uncovering cellular-level tissue architecture beyond conventional platforms with iSCALE** | Nature Methods  | iSCALE | [link](https://www.nature.com/articles/s41592-025-02770-8)    | [link](https://github.com/amesch441/iSCALE) 
