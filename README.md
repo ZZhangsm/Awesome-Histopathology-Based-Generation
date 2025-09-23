@@ -15,7 +15,7 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 
 ## 📋 Table of Contents
 
-- [📊 Datasets](#-datasets)
+<!-- - [📊 Datasets](#-datasets) -->
 - [📚 Papers](#-papers)
   - [Survey](#survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
@@ -25,22 +25,23 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
 
-## 📊 Datasets
+<!-- ## 📊 Datasets -->
 
-<details>
+<!-- <details>
 <summary>📊 Datasets</summary>
 
 ### Public Datasets
 | Year | Title                                                        |  Venue  |        Built For        |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2023 | **An AI-ready multiplex staining dataset for reproducible and accurate characterization of tumor immune microenvironment** | MICCAI | H&E To Protein | [link](https://arxiv.org/abs/2305.16465)    | [link](https://github.com/nadeemlab/DeepLIIF)                   |
+| ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | -->
+<!-- | 2023 | **An AI-ready multiplex staining dataset for reproducible and accurate characterization of tumor immune microenvironment** | MICCAI | H&E To Protein | [link](https://arxiv.org/abs/2305.16465)    | [link](https://github.com/nadeemlab/DeepLIIF)                   | -->
 
 </details>
 
 ## 📚 Papers
 ### Survey
-| Year | Title                                                        |  Venue  |        Method        |                            Paper                             |
+| Year | Title                                                        |  Venue  |        Field        |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: |
+| 2025 | **Combining spatial transcriptomics with tissue morphology** | Nat. Commun. |  Computational Pathology | [link](https://www.nature.com/articles/s41467-025-58989-8)    |
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Computational Pathology | [link](https://arxiv.org/abs/2505.10993)    |
 <!-- | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    | -->
 
@@ -65,6 +66,7 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 | 2025 | **Spatially resolved gene expression prediction from histology images via bi-modal contrastive learning** | NeurIPS | BLEEP | [link](https://arxiv.org/pdf/2306.01859)    | [link](https://github.com/bowang-lab/BLEEP)                   |
 | 2025 | **M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images** | AAAI | M2ORT | [link](https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985)    | [link](https://github.com/Dootmaan/M2ORT/) |
 | 2024| **HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator** | arXiv | HEMIT | [link](https://arxiv.org/abs/2403.18501)    | [link](https://github.com/BianChang/HEMIT-DATASET) |
+| 2024 | **Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology** | Nature biotechnology | iStar | [link](https://doi.org/10.1038/s41587-023-02019-9)    |   [link](https://github.com/daviddaiweizhang/istar)                   |
 | 2024 | **Accurate spatial gene expression prediction by integrating multi-resolution features** | CVPR | TRIPLEX | [link](https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Accurate_Spatial_Gene_Expression_Prediction_by_Integrating_Multi-Resolution_Features_CVPR_2024_paper.html)    |   [link](https://github.com/NEXGEM/TRIPLEX)                   |
 | 2023 | **Exemplar guided deep neural network for spatial transcriptomics analysis of gene expression prediction** | CVPR | EGN                  | [link](https://arxiv.org/abs/2210.16721)    | [link](https://github.com/Yan98/EGN)                   |
 | 2022 | **Spatial transcriptomics prediction from histology jointly through transformer and graph neural networks** | BIB | Hist2ST                  | [link](https://doi.org/10.1093/bib/bbac297)    | [link](https://github.com/biomed-AI/Hist2ST)                   |
