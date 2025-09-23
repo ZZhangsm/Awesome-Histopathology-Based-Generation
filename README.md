@@ -1,13 +1,21 @@
-[stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-Histopathology-Generative-Translation?color=yellow
-[stars-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/stargazers
+[stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?color=yellow
+[stars-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/stargazers
 [fork-img]: https://img.shields.io/github/forks/zzhangsm/Awesome-Histopathology-Generative-Translation?color=lightblue&label=fork
-[fork-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/network/members
-[AHBG-url]: https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation
+[fork-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/network/members
+[AHBG-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation
 
-# Awesome-Histopathology-Generative-Translation
-Awesome-Histopathology-Generative-Translation is a collection of histopathology image-based generation works, including papers, codes and datasets🔥.  We center on the core task of "generative translation for histopathology data" — a key research direction in computational pathology that aims to bridge different data modalities or staining types using generative models. Specifically, it focuses on translating information from hematoxylin and eosin (H&E) stained histopathology images (the most common and accessible histology imaging modality) to other critical biological or imaging data.
+# Awesome H&E-to-Spatial-Transcriptomics Translation
 
-Any problems, please contact the zzhangsm615@gmail.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
+This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
+
+---
+
+## 📌 Introduction
+Spatial transcriptomics provides spatially resolved gene expression profiles, while H&E staining is one of the most common and cost-effective histopathology techniques.  
+Recent advances in machine learning and generative modeling have enabled the translation of H&E images into spatial gene expression, bridging the gap between routine pathology and spatial omics.  
+
+This repository aims to collect and organize resources in this direction to facilitate research and applications.
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
@@ -104,7 +112,9 @@ Any problems, please contact the zzhangsm615@gmail.com. Any other interesting pa
 
 ## 🤝 Contributing
 
-We welcome all forms of contributions! If you want to add new papers, codes, or resources, please:
+ Contributions are welcome!  
+If you know of other relevant papers, code, or datasets, feel free to open an issue or submit a pull request.  
+
 
 1. Fork this repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -117,7 +127,7 @@ We welcome all forms of contributions! If you want to add new papers, codes, or 
 
 If you have any questions or suggestions, please contact us through:
 - Email: zzhangsm615@gmail.com
-- GitHub Issues: [Create Issue](https://github.com/zzhangsm/Awesome-Histopathology-Generative-Translation/issues)
+- GitHub Issues: [Create Issue](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/issues)
 
 ## 🙏 Acknowledgments
 
