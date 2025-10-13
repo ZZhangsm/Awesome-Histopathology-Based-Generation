@@ -63,6 +63,7 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 | **TBD** |  |                   | [link]()    | [link]()                   |
+| 2025 | **GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction** |  arXiv | GenAR | [link](https://github.com/oyjr/genar)    | [link](https://arxiv.org/abs/2510.04315v1) |
 | 2025 | **stImage: a versatile framework for optimizing spatial transcriptomic analysis through customizable deep histology and location informed integration** | Brief. Bioinform. |stImage| [link](https://academic.oup.com/article/26/5/bbaf429/8247981)    | [link](https://github.com/YuWang-VUMC/stImage)                   |
 | 2025 | **Scaling up spatial transcriptomics for large-sized tissues: uncovering cellular-level tissue architecture beyond conventional platforms with iSCALE** | Nature Methods  | iSCALE | [link](https://www.nature.com/articles/s41592-025-02770-8)    | [link](https://github.com/amesch441/iSCALE) 
 | 2025 | **Spatial gene expression at single-cell resolution from histology using deep learning with GHIST** | Nature Methods | GHIST| [link](https://www.nature.com/articles/s41592-025-02795-z)    | [link](https://github.com/SydneyBioX/GHIST) 
@@ -129,7 +130,7 @@ If you know of other relevant papers, code, or datasets, feel free to open an is
 ## 📧 Contact
 
 If you have any questions or suggestions, please contact us through:
-- Email: zzhangsm615@gmail.com
+- Email: sm.zhang@smail.nju.edu.cn
 - GitHub Issues: [Create Issue](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/issues)
 
 ## 🙏 Acknowledgments
