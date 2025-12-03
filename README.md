@@ -25,10 +25,8 @@ This repository aims to collect and organize resources in this direction to faci
 
 <!-- - [📊 Datasets](#-datasets) -->
 - [📚 Papers](#-papers)
-  - [Survey](#survey)
+  - [Protocol, Benchmark and Survey](#protocol-benchmark-and-survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
-  <!-- - [H&E To Protein Biomarker](#he-to-protein-biomarker)
-  - [H&E To Cell Profile](#he-to-cell-profile) -->
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -46,12 +44,13 @@ This repository aims to collect and organize resources in this direction to faci
 </details>
 
 ## 📚 Papers
-### Survey and Benchmark
+### Protocol, Benchmark and Survey
 | Year | Title                                                        |  Venue  |        Field        |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: |
 | 2025 | **Benchmarking the translational potential of spatial gene expression prediction from histology** | Nat. Commun. |  Benchmark | [link](https://www.nature.com/articles/s41467-025-56618-y)    |
-| 2025 | **Combining spatial transcriptomics with tissue morphology** | Nat. Commun. |  Computational Pathology | [link](https://www.nature.com/articles/s41467-025-58989-8)    |
-| 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Computational Pathology | [link](https://arxiv.org/abs/2505.10993)    |
+| 2025 | **Combining spatial transcriptomics with tissue morphology** | Nat. Commun. |  Survey | [link](https://www.nature.com/articles/s41467-025-58989-8)    |
+| 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Survey | [link](https://arxiv.org/abs/2505.10993)    |
+| 2025 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nature Protocols |  Protocol | [link](https://www.nature.com/articles/s41596-024-01047-2)    |
 <!-- | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    | -->
 
 <!-- ### H&E To Cell profile
@@ -63,6 +62,8 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 | **TBD** |  |                   | [link]()    | [link]()                   |
+| 2025 | **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** |  npj Digital Medicine | STPath | [link](https://github.com/Graph-and-Geometric-Learning/STPath)    | [link](https://www.nature.com/articles/s41746-025-02020-3) |
+| 2025 | **A deep learning-based multiscale integration of spatial omics with tumor morphology** |  Nat. Commun | MISO | [link](https://github.com/owkin/miso_code)    | [link](https://www.nature.com/articles/s41467-025-66691-y) |
 | 2025 | **GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction** |  arXiv | GenAR | [link](https://github.com/oyjr/genar)    | [link](https://arxiv.org/abs/2510.04315v1) |
 | 2025 | **stImage: a versatile framework for optimizing spatial transcriptomic analysis through customizable deep histology and location informed integration** | Brief. Bioinform. |stImage| [link](https://academic.oup.com/article/26/5/bbaf429/8247981)    | [link](https://github.com/YuWang-VUMC/stImage)                   |
 | 2025 | **Scaling up spatial transcriptomics for large-sized tissues: uncovering cellular-level tissue architecture beyond conventional platforms with iSCALE** | Nature Methods  | iSCALE | [link](https://www.nature.com/articles/s41592-025-02770-8)    | [link](https://github.com/amesch441/iSCALE) 
@@ -95,6 +96,15 @@ This repository aims to collect and organize resources in this direction to faci
 | 2022 | **Efficient prediction of a spatial transcriptomics profile better characterizes breast cancer tissue sections without costly experimentation** | Sci. Rep. |    DeepSpaCE    | [link](https://www.nature.com/articles/s41598-022-07685-4)    | [link](https://github.com/tmonjo/DeepSpaCE)                   |
 | 2021 | **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** | bioRxiv | HisToGene                  | [link](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1)    | [link](https://github.com/maxpmx/HisToGene)                   |
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nature biomedical engineering | ST-Net                  | [link](https://www.nature.com/articles/s41551-020-0578-x)    | [link](https://github.com/bryanhe/ST-Net)                   |
+
+
+### H&E To Gene alterations
+| Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 | **Evidential deep learning-based ALK-expression screening using H&E-stained histopathological images** | Npj Digital Medicine | DeepPATHO | [link](https://www.nature.com/articles/s41746-025-01981-9)    | [link](https://github.com/datax-lab/DeepPATHO) 
+
+
+
 <!-- 
 ### H&E To Protein Biomarker
 
